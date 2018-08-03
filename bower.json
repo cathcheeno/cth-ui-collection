@@ -5,7 +5,7 @@
   ],
   "keywords": [
     "element-collection"
-  ]
+  ],
   "license": "http://polymer.github.io/LICENSE.txt",
   "dependencies": {
     "cth-button": "cathcheeno/cth-button#*"
