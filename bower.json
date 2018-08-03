@@ -1,0 +1,12 @@
+{
+  "name": "cth-ui-collection",
+  "authors": [
+    "Go Ohtani"
+  ],
+  "keywords": [
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "dependencies": {
+    "cth-button": "cathcheeno/cth-button#*"
+  }
+}
